@@ -2,7 +2,7 @@
 
 try{
     $HOST = 'localhost';
-    $BANCO = 'estufaWebServer';
+    $BANCO = 'estufa_webserver';
     $USUARIO = 'root';
     $SENHA = '';
 
