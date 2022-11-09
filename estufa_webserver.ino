@@ -17,9 +17,9 @@
 
 
 #include <WiFi.h>//biblioteca para wifi
-const char* ssid     = "Joao";//ssid do wifi
-const char* password = "Enrique13082005";//senha do wifi
-const char* host = "192.168.1.103";// ip do computador
+const char* ssid     = "Nome-Wifi";//ssid do wifi
+const char* password = "Senha";//senha do wifi
+const char* host = "IP-Local";// ip do computador
 
 int releBombaAgua = 15; // relé que liga a bomba de água (D15)
 char* estadoBomba = "Desligado";
