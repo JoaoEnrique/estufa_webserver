@@ -1,5 +1,5 @@
 # estufa_webserver
-Estufa feita com esp32 e banco de dados
+Estufa IoT feita com esp32 e banco de dados
 
 Video completo:
 https://photos.google.com/share/AF1QipN1dx84bmaU7h1TZ1Zcx9FCDzakEkpirN5xT_vgOFZaaBK85RmbjcehBh7_tjRUKA?key=T3BtbTZEalVPMmFFbk5qazRYOGt5QnlHV3NsaHln
