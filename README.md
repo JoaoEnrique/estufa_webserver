@@ -1,5 +1,5 @@
 # estufa_webserver
-Estufa IoT feita com esp32 e banco de dados
+Estufa IoT, utilizando Esp32 com sensores de temperatura e sensor de humidade do solo que salvam as informações em um banco de dados MySQL, mostrado em um site PHP.
 
 Video completo:
 https://photos.google.com/share/AF1QipN1dx84bmaU7h1TZ1Zcx9FCDzakEkpirN5xT_vgOFZaaBK85RmbjcehBh7_tjRUKA?key=T3BtbTZEalVPMmFFbk5qazRYOGt5QnlHV3NsaHln
